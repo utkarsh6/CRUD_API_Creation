@@ -4,7 +4,7 @@ This project mainly focus on CRUD API Creation and it follows the MVC Architectu
 3. Express.js
 4. Middleware
 
-Features
+**Features:**
 1.Create new records
 2.Read existing records
 3.Update existing records
